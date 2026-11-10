@@ -15,18 +15,18 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SalvadorJr33&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="Estatísticas">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvadorJr33&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais usadas">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=SalvadorJr33&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SalvadorJr33&layout=compact&hide_border=true" alt="Linguagens mais usadas">
 </p>
 
 ## 🔥 Rotina de commits
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalvadorJr33&hide_border=true&theme=transparent" alt="Streak de commits">
+  <img src="https://streak-stats.demolab.com/?user=SalvadorJr33&hide_border=true" alt="Streak de commits">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalvadorJr33&hide_border=true&area=true" alt="Gráfico de atividade">
+  <img src="https://ghchart.rshah.org/SalvadorJr33" alt="Gráfico de contribuições">
 </p>
 
 ---
